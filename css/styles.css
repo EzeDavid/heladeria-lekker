@@ -13,6 +13,14 @@ body {
   outline: 0;
 }
 
+.navbar strong span {
+  color: #28a745;
+}
+.logo{
+  height: 70px;
+  width: auto;
+  
+}
 /* Seccion llamados */
 
 h5 , h1 {
@@ -61,27 +69,27 @@ h2 {
   width: 100%;
 }
 
-button {
+#card button {
   width: 70%;
   border: none!important;
   font-weight: bold!important;
   font-size: 1.5em!important;
 }
 
-button#dulce {
+#card button#dulce {
   background-color: #a26e39;
 
 }
 
-button#choco {
+#card button#choco {
   background-color: #7b6957;
 }
 
-button#frutal {
+#card button#frutal {
   background-color: #e1b9cd;
 }
 
-button#cream {
+#card button#cream {
   background-color: #e2d1aa;
 }
 
@@ -93,6 +101,7 @@ ul {
 
 #card {
   width: 50%;
+  text-align: center;
   vertical-align: middle;
   margin: auto auto;
   margin-bottom: 2%;
