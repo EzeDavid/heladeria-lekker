@@ -35,7 +35,8 @@ Por favor lee [COLABORAR.md](https://gist.github.com/jorgeroldan/2f2a03faac3cdbe
 * **Oliver Korn** - [Colaborador](https://twitter.com/)
 * **Juan Martín** - [Colaborador](https://twitter.com/)
 * **Jorge Roldán** - [Colaborador](https://twitter.com/roldanjorgex)
-
+* **Ezequiel Blanco** - [Colaborador](https://twitter.com/)
+* **Edu ** - [Colaborador](https://twitter.com/)
 
 También puedes ver la lista completa de colaboradores [Colaboradores](https://github.com/your/project/contributors) que han participado de este proyecto.
 
