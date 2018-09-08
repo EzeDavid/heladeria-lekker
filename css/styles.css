@@ -112,6 +112,11 @@ ul {
     margin-bottom: 30px;;
 } */
 
+.form-inline .form-control{
+  width: 170px;
+}
+
+
 .center {
   margin-top: 10px;
   margin-left: auto;
