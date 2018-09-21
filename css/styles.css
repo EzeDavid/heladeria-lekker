@@ -7,19 +7,30 @@ body {
 }
 
 .navbar{
-  background-color: #000!important;
+  background-color: rgb(250, 244, 242)!important;
+  opacity: 1.5;
 }
 .navbar-toggler:focus {
   outline: 0;
 }
 
 .navbar strong span {
-  color: #28a745;
+  color: #63bfe4;
 }
+
+.navbar-nav li a {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 25px;
+  color : rgb(63, 153, 238)!important;
+  text-shadow: #777!important;
+}
+
 .logo{
   height: 70px;
   width: auto;
-  
+  text-shadow: dimgrey!important;
+  color:black;
+
 }
 /* Seccion llamados */
 
@@ -35,6 +46,13 @@ h2 {
 
 #boton-llamado{
   font-family: 'Basic', sans-serif;
+}
+
+/* Seccion sabores */
+
+.sabores {
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
 }
 
 /* Carousel base class */
@@ -57,7 +75,7 @@ h2 {
   background-color: #777;
 }
 
-.carousel-item>img {
+.carousel-item img {
   position: absolute;
   top: 0;
   left: 0;
@@ -104,8 +122,7 @@ ul {
   text-align: center;
   vertical-align: middle;
   margin: auto auto;
-  margin-bottom: 2%;
-  
+  margin-bottom: 1%;
 }
 
 /* .slider{
@@ -134,7 +151,7 @@ footer {
   margin-top: 20px;
   padding-top: 2rem;
   padding: 1%;
-  background-color: lightgray;
+  background-color: rgb(250, 244, 242)!important;
 }
 
 footer p {
