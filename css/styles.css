@@ -19,8 +19,8 @@ body {
 }
 
 .navbar-nav li a {
-  font-family: 'Kaushan Script', cursive;
-  font-size: 25px;
+  font-family:'Roboto', sans-serif;
+  font-size: 20px;
   color : rgb(63, 153, 238)!important;
   text-shadow: #777!important;
 }
