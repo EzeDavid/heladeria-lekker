@@ -125,9 +125,17 @@ ul {
   margin-bottom: 1%;
 }
 
+#gustos, #call, #ubicacion {
+  padding-top: 7em;
+}
 /* .slider{
     margin-bottom: 30px;;
 } */
+
+.form-inline .form-control{
+  width: 170px;
+}
+
 
 .center {
   margin-top: 10px;
