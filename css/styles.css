@@ -125,6 +125,10 @@ ul {
   margin-bottom: 1%;
 }
 
+.card {
+  border:none;
+}
+
 #gustos, #call, #ubicacion {
   padding-top: 7em;
 }
