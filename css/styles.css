@@ -129,6 +129,10 @@ ul {
   border:none;
 }
 
+#card .btn-primary:focus {
+box-shadow: none;
+}
+
 #gustos, #call, #ubicacion {
   padding-top: 7em;
 }
