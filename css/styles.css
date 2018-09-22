@@ -172,10 +172,6 @@ ul {
 box-shadow: none;
 }
 
-#gustos, #call, #ubicacion {
-  padding-top: 7em;
-=======
-
 @media screen and (min-width: 800px) {
   #gustos, #call, #ubicacion {
     padding-top: 7em;
