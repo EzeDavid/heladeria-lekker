@@ -10,7 +10,9 @@ body {
 .navbar-toggler:focus {
   outline: 0;
 }
-
+.navbar-light .navbar-toggler{
+  border-color: rgba(0, 0, 0,.0)!important;
+}
 .navbar strong span {
   color: #63bfe4;
 }
