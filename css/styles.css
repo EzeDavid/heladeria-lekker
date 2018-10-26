@@ -64,6 +64,7 @@ font-size: 20px;
 
 .carousel {
   margin-bottom: 4rem;
+  position: inherit;
 }
 
 /* Since positioning the image, we need to help out the caption */
@@ -96,6 +97,7 @@ font-size: 20px;
 .carousel-inner{
   overflow: -webkit-paged-y;
   height: 506px;
+  position: absolute;
 }
 
 /*CSS code used for mobile view */
