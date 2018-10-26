@@ -64,7 +64,6 @@ font-size: 20px;
 
 .carousel {
   margin-bottom: 4rem;
-  position: inherit;
 }
 
 /* Since positioning the image, we need to help out the caption */
@@ -88,19 +87,6 @@ font-size: 20px;
   left: 0;
   width: 100%;
   background-size: 100%;
-<<<<<<< HEAD
-=======
-}
-
-.carousel-inner>.item>img{
-  width: 100%;
-}
-
-.carousel-inner{
-  overflow: -webkit-paged-y;
-  height: 506px;
-  position: absolute;
->>>>>>> d0654aec758306435e45ee2e2736f9ae2d8b5063
 }
 .carousel-inner>.item>img{
   width: 100%;
@@ -136,10 +122,6 @@ font-size: 20px;
   .carousel-item {
     height: 250px;
     background-color: #777;
-  }
-
-  .carousel-inner{
-    height: auto;
   }
 
   #promociones, #gustos, #call, #ubicacion {
