@@ -60,30 +60,32 @@ font-family: 'Roboto', sans-serif;
 font-size: 20px;
 }
 
-/* Carousel base class */
 
+
+/* Carousel base class */
+/* 
 .carousel {
   margin-bottom: 4rem;
   position: inherit;
-}
+} */
 
 /* Since positioning the image, we need to help out the caption */
-
+/* 
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
-}
+} */
 
 /* Declare heights because of positioning of img element */
-
+/* 
 .carousel-item {
   height: -webkit-fill-available;
   background-color: #777;
   text-align: center;
-}
+} */
 
 .carousel-item img {
-  position: absolute;
+
   top: 0;
   left: 0;
   width: 100%;
@@ -92,19 +94,23 @@ font-size: 20px;
 =======
 }
 
-.carousel-inner>.item>img{
+/* .carousel-inner>.item>img{
   width: 100%;
-}
+} */
 
-.carousel-inner{
+/* .carousel-inner{
   overflow: -webkit-paged-y;
   height: 506px;
   position: absolute;
+<<<<<<< HEAD
 >>>>>>> d0654aec758306435e45ee2e2736f9ae2d8b5063
 }
 .carousel-inner>.item>img{
   width: 100%;
 }
+=======
+} */
+>>>>>>> 772e358d6c860937aad57e44e19db62484e70633
 
 .carousel-inner{
   overflow: -webkit-paged-y;
@@ -121,12 +127,20 @@ font-size: 20px;
 
 @media (max-width: 767px) {
   .carousel-item img {
+<<<<<<< HEAD
     position:absolute;
+=======
+    /* position: absolute; */
+>>>>>>> 772e358d6c860937aad57e44e19db62484e70633
     top: 0;
     left: 0;
     width: 100%;
     height: auto;
+<<<<<<< HEAD
     background-size: 100%;
+=======
+    background-size: 100%; 
+>>>>>>> 772e358d6c860937aad57e44e19db62484e70633
   }
 
 .carousel-inner{
